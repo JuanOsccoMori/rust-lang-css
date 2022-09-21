@@ -1,2 +1,2 @@
 ## Ejercices on CSS
-Only openBootcamp
+- Only openBootcamp
