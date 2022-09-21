@@ -1,0 +1,15 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.encabezado {
+    font-size: 2rem;
+    background-color: green;
+}
+
+#elemento-1 {
+    color: red;
+}
+#elemento-2, #elemento-3, #elemento-4, #elemento-5 {
+    color: green;
+}
