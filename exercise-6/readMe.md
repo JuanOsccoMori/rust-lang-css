@@ -1,4 +1,4 @@
-### @Crea un nuevo documento HTML con el título "Animaciones y transiciones en CSS"
+### Crea un nuevo documento HTML con el título "Animaciones y transiciones en CSS"
 
 Crea un nuevo fichero CSS e impórtalo en el documento HTML principal
 
