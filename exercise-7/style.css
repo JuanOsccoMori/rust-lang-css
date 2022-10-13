@@ -1,0 +1,38 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.container {
+    min-height: 100vh;
+    min-width: 100vw;
+    display: flex;
+}
+
+
+.section-principal {
+    display: flex;
+    padding: 2rem;
+    flex-grow: 1;
+
+}
+
+.section-lateral {
+    flex-direction: column;
+    display: flex;
+    padding: 2rem;
+    gap: 10px;
+}
+
+@media (max-width: 640px) {
+    .container {
+        flex-direction: column-reverse;
+    }
+    .section-lateral {
+        flex-direction: row;
+        justify-content: space-evenly;
+    }
+    .section-principal {
+        justify-content: center;
+    }
+}
